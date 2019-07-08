@@ -1,6 +1,7 @@
 {
   "name": "fog-map",
   "version": "1.0.2",
+  "postversion": "git push && git push --tags && npm publish",
   "description": "Fog Map",
   "main": "server.js",
   "scripts": {
