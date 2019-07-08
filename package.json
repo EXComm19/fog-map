@@ -1,0 +1,19 @@
+{
+  "name": "fog-map",
+  "version": "1.0.0",
+  "description": "Fog Map",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "EXComm19",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EXComm19/fog-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EXComm19/fog-map/issues"
+  },
+  "homepage": "https://github.com/EXComm19/fog-map#readme"
+}
