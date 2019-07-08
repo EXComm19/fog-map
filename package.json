@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/EXComm19/fog-map/issues"
   },
-  "homepage": "https://github.com/EXComm19/fog-map#readme"
+  "homepage": "https://github.com/EXComm19/fog-map#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
